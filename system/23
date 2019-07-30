@@ -1,0 +1,5 @@
+pour se connecter a ce nouvelle utilisateur,
+dans le terminal: su (nom d'utilisateur) puis entree le mot de passe.
+en graphique: ce delog et log sur la session du nouvelle utilisateur.
+en ssh: ssh utilisateur (si en locale) ssh utilisateur@IP (si externe)
+

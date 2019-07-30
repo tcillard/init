@@ -1,0 +1,3 @@
+read -p "user : " user_name
+killall -u $user_name
+userdel -f $user_name

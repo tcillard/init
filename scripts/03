@@ -1,0 +1,7 @@
+read -p "project name : " project
+read -p "link git : " git
+git clone $git $project
+cd $project
+touch auteur && echo "tcillard" > auteur
+cp -r ~/project/libft .
+cd ..

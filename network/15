@@ -1,0 +1,5 @@
+il faut modifier le fichier hosts et y ajouter l'adresse suivie du site
+127.0.0.1       localhost
+46.19.122.85	intra.42.fr
+255.255.255.255 broadcasthost
+::1             localhost

@@ -1,0 +1,1 @@
+ps aux | grep "sshd" | head -n 1 | cut -c 11-16
